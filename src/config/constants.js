@@ -46,7 +46,7 @@ export const CHAIN_INFO = {
 			symbol: 'BNB',
 			decimals: 18,
 		},
-		rpcUrls: ['https://bsc-testnet.public.blastapi.io'],
+		rpcUrls: ['https://data-seed-prebsc-1-s1.binance.org:8545/'],
 		blockExplorerUrls: ['https://testnet.bscscan.com'],
 	},
 
